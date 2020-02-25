@@ -12,6 +12,8 @@
     background: linear-gradient(#bc581e, #e27b36);
     border-radius: 50% 50% 0 0;
     box-shadow: inset -15px 0 #c15711;
+    position: relative;
+    margin: 0 auto;
 }
 .seedS1{
     width: 10%;
