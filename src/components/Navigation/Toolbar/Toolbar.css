@@ -15,3 +15,6 @@
 .toolbar nav {
   height: 100%;
 }
+.toolbar .logo {
+  height: 80%;
+}

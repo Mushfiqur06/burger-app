@@ -24,3 +24,7 @@
 .close {
   transform: translateX(-100%);
 }
+
+.sideDrawer .logo {
+  height: 11%;
+}
